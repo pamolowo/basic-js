@@ -1,28 +1,32 @@
 # basic-js
-Node js enables runtime outside the browser
+1.Node js enables runtime outside the browser
 ####
-A. Adding interactive behavior to web pages
+
+2A. Adding interactive behavior to web pages
 ###
-B. Backend development###
-C.Creating web and mobile apps###
-D.Building web servers and developing server applications###
-E.Game development###
+B. Backend development
 ###
-June 1997
+C.Creating web and mobile apps
 ###
-console.log();
+D.Building web servers and developing server applications
 ###
-Frontend development, Backend development, Mobile App development, Game development
+E.Game development
 ###
-Statically typed programming languages do type checking at compile-time.
+3.June 1997
+###
+4.console.log();
+###
+5.Frontend development, Backend development, Mobile App development, Game development
+###
+6.Statically typed programming languages do type checking at compile-time.
 Examples: Java, C, C++.
 ###
-Dynamically typed programming languages do type checking at run-time.
+7.Dynamically typed programming languages do type checking at run-time.
 Examples: Perl, Ruby, Python, PHP, JavaScript.
 ###
-A programming language is statically typed if the type of a variable is known at compile time.
+8.A programming language is statically typed if the type of a variable is known at compile time.
 A language is dynamically typed if the type of a variable is checked during run-time.  
 ###
 
-Null: It is the intentional absence of the value. It is one of the primitive values of JavaScript.
+9.Null: It is the intentional absence of the value. It is one of the primitive values of JavaScript.
 Undefined: It means the value does not exist in the compiler.
